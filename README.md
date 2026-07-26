@@ -107,4 +107,4 @@ dotnet add package MetadataExtractor
 
 ## 📝 Лицензия
 
-Распространяется под лицензией **MIT**. Подробности в файле `LICENSE`.
+Подробности в файле `LICENSE`.
